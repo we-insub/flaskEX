@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57cefef0-805d-4aed-b86d-d7bfe00757a7" name="Default Changelist" comment="" />
+    <list default="true" id="57cefef0-805d-4aed-b86d-d7bfe00757a7" name="Default Changelist" comment="seperate , model controller">
+      <change afterPath="$PROJECT_DIR$/123/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model,control.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model,control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLLiteTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQLLiteTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -41,15 +50,41 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/temples" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SQLLiteTest">
+  <component name="RunManager" selected="Python.Model,control">
+    <configuration name="Model,control" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flaskEX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model,control.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SQLLiteTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="flaskEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,8 +127,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flaskEX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Model,control" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.SQLLiteTest" />
         <item itemvalue="Python.a" />
       </list>
@@ -121,26 +179,50 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="seperate , model controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="seperate , model controller" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1319" height="247" key="GridCell.Tab.0.bottom" timestamp="1604037834067">
+    <state x="679" y="415" width="600" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604040761362">
+      <screen x="72" y="27" width="1753" height="1264" />
+    </state>
+    <state x="679" y="415" width="600" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1753.1264@72.27.1753.1264" timestamp="1604040761362" />
+    <state x="757" y="360" width="424" height="520" key="FileChooserDialogImpl" timestamp="1604039188842">
+      <screen x="72" y="27" width="1753" height="1264" />
+    </state>
+    <state x="757" y="360" width="424" height="520" key="FileChooserDialogImpl/72.27.1753.1264@72.27.1753.1264" timestamp="1604039188842" />
+    <state width="1319" height="175" key="GridCell.Tab.0.bottom" timestamp="1604044342279">
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
     <state width="1319" height="247" key="GridCell.Tab.0.bottom/72.27.1342.971@72.27.1342.971" timestamp="1604025147063" />
-    <state width="1319" height="247" key="GridCell.Tab.0.bottom/72.27.1753.1264@72.27.1753.1264" timestamp="1604037834067" />
-    <state width="1319" height="247" key="GridCell.Tab.0.center" timestamp="1604037834066">
+    <state width="1319" height="175" key="GridCell.Tab.0.bottom/72.27.1753.1264@72.27.1753.1264" timestamp="1604044342279" />
+    <state width="1319" height="175" key="GridCell.Tab.0.center" timestamp="1604044342278">
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
     <state width="1319" height="247" key="GridCell.Tab.0.center/72.27.1342.971@72.27.1342.971" timestamp="1604025147062" />
-    <state width="1319" height="247" key="GridCell.Tab.0.center/72.27.1753.1264@72.27.1753.1264" timestamp="1604037834066" />
-    <state width="1319" height="247" key="GridCell.Tab.0.left" timestamp="1604037834065">
+    <state width="1319" height="175" key="GridCell.Tab.0.center/72.27.1753.1264@72.27.1753.1264" timestamp="1604044342278" />
+    <state width="1319" height="175" key="GridCell.Tab.0.left" timestamp="1604044342277">
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
     <state width="1319" height="247" key="GridCell.Tab.0.left/72.27.1342.971@72.27.1342.971" timestamp="1604025147061" />
-    <state width="1319" height="247" key="GridCell.Tab.0.left/72.27.1753.1264@72.27.1753.1264" timestamp="1604037834065" />
-    <state width="1319" height="247" key="GridCell.Tab.0.right" timestamp="1604037834067">
+    <state width="1319" height="175" key="GridCell.Tab.0.left/72.27.1753.1264@72.27.1753.1264" timestamp="1604044342277" />
+    <state width="1319" height="175" key="GridCell.Tab.0.right" timestamp="1604044342278">
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
     <state width="1319" height="247" key="GridCell.Tab.0.right/72.27.1342.971@72.27.1342.971" timestamp="1604025147062" />
-    <state width="1319" height="247" key="GridCell.Tab.0.right/72.27.1753.1264@72.27.1753.1264" timestamp="1604037834067" />
+    <state width="1319" height="175" key="GridCell.Tab.0.right/72.27.1753.1264@72.27.1753.1264" timestamp="1604044342278" />
+    <state x="463" y="252" width="1022" height="737" key="SettingsEditor" timestamp="1604038729051">
+      <screen x="72" y="27" width="1753" height="1264" />
+    </state>
+    <state x="463" y="252" width="1022" height="737" key="SettingsEditor/72.27.1753.1264@72.27.1753.1264" timestamp="1604038729051" />
+    <state x="407" y="411" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604043297387">
+      <screen x="72" y="27" width="1753" height="1264" />
+    </state>
+    <state x="407" y="411" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1753.1264@72.27.1753.1264" timestamp="1604043297387" />
+    <state x="593" y="590" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604042888914">
+      <screen x="72" y="27" width="1753" height="1264" />
+    </state>
+    <state x="593" y="590" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1753.1264@72.27.1753.1264" timestamp="1604042888914" />
   </component>
 </project>
