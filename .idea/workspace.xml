@@ -19,14 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57cefef0-805d-4aed-b86d-d7bfe00757a7" name="Default Changelist" comment="seperate , model controller">
-      <change afterPath="$PROJECT_DIR$/123/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="57cefef0-805d-4aed-b86d-d7bfe00757a7" name="Default Changelist" comment="change file name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model,control.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model,control.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQLLiteTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQLLiteTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +34,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -166,6 +163,21 @@
       <option name="presentableId" value="Default" />
       <updated>1604024941108</updated>
     </task>
+    <task id="LOCAL-00001" summary="seperate , model controller Day1 최">
+      <created>1604044627834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604044627835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change file name">
+      <created>1604045239448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604045239448</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +193,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="seperate , model controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="seperate , model controller" />
+    <MESSAGE value="seperate , model controller Day1 최종" />
+    <MESSAGE value="change file name" />
+    <option name="LAST_COMMIT_MESSAGE" value="change file name" />
   </component>
   <component name="WindowStateProjectService">
     <state x="679" y="415" width="600" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604040761362">
@@ -216,10 +230,10 @@
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
     <state x="463" y="252" width="1022" height="737" key="SettingsEditor/72.27.1753.1264@72.27.1753.1264" timestamp="1604038729051" />
-    <state x="407" y="411" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604043297387">
+    <state x="407" y="411" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604045275097">
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
-    <state x="407" y="411" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1753.1264@72.27.1753.1264" timestamp="1604043297387" />
+    <state x="407" y="411" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1753.1264@72.27.1753.1264" timestamp="1604045275097" />
     <state x="593" y="590" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604042888914">
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
