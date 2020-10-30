@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="57cefef0-805d-4aed-b86d-d7bfe00757a7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +49,28 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.SQLLiteTest">
+    <configuration name="SQLLiteTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flaskEX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLLiteTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="flaskEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SQLLiteTest" />
         <item itemvalue="Python.a" />
       </list>
     </recent_temporary>
@@ -70,26 +110,37 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1319" height="247" key="GridCell.Tab.0.bottom" timestamp="1604025173612">
+    <state width="1319" height="247" key="GridCell.Tab.0.bottom" timestamp="1604033176296">
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
     <state width="1319" height="247" key="GridCell.Tab.0.bottom/72.27.1342.971@72.27.1342.971" timestamp="1604025147063" />
-    <state width="1319" height="247" key="GridCell.Tab.0.bottom/72.27.1753.1264@72.27.1753.1264" timestamp="1604025173612" />
-    <state width="1319" height="247" key="GridCell.Tab.0.center" timestamp="1604025173610">
+    <state width="1319" height="247" key="GridCell.Tab.0.bottom/72.27.1753.1264@72.27.1753.1264" timestamp="1604033176296" />
+    <state width="1319" height="247" key="GridCell.Tab.0.center" timestamp="1604033176294">
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
     <state width="1319" height="247" key="GridCell.Tab.0.center/72.27.1342.971@72.27.1342.971" timestamp="1604025147062" />
-    <state width="1319" height="247" key="GridCell.Tab.0.center/72.27.1753.1264@72.27.1753.1264" timestamp="1604025173610" />
-    <state width="1319" height="247" key="GridCell.Tab.0.left" timestamp="1604025173609">
+    <state width="1319" height="247" key="GridCell.Tab.0.center/72.27.1753.1264@72.27.1753.1264" timestamp="1604033176294" />
+    <state width="1319" height="247" key="GridCell.Tab.0.left" timestamp="1604033176293">
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
     <state width="1319" height="247" key="GridCell.Tab.0.left/72.27.1342.971@72.27.1342.971" timestamp="1604025147061" />
-    <state width="1319" height="247" key="GridCell.Tab.0.left/72.27.1753.1264@72.27.1753.1264" timestamp="1604025173609" />
-    <state width="1319" height="247" key="GridCell.Tab.0.right" timestamp="1604025173611">
+    <state width="1319" height="247" key="GridCell.Tab.0.left/72.27.1753.1264@72.27.1753.1264" timestamp="1604033176293" />
+    <state width="1319" height="247" key="GridCell.Tab.0.right" timestamp="1604033176295">
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
     <state width="1319" height="247" key="GridCell.Tab.0.right/72.27.1342.971@72.27.1342.971" timestamp="1604025147062" />
-    <state width="1319" height="247" key="GridCell.Tab.0.right/72.27.1753.1264@72.27.1753.1264" timestamp="1604025173611" />
+    <state width="1319" height="247" key="GridCell.Tab.0.right/72.27.1753.1264@72.27.1753.1264" timestamp="1604033176295" />
   </component>
 </project>
