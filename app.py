@@ -4,7 +4,7 @@ from flask import request
 from flask import redirect
 from flask import render_template
 from models import db
-from models import Fcuser
+from models import MyUser
 app = Flask(__name__)
 
 @app.route('/register', methods=['GET','POST'])
@@ -26,7 +26,7 @@ def register():
 
             return redirect('/')
     return render_template('register.html')
-@app.route("/") # 어떤 주소로 함수를 시작할것이냐.
+@app.route("/", methods=['GET','POST']) # 어떤 주소로 함수를 시작할것이냐.
 def hello(): # /에 접근했을때 hello함수 실행
     return "Hello world!"
 
