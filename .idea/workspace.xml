@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57cefef0-805d-4aed-b86d-d7bfe00757a7" name="Default Changelist" comment="2020 11 02 10:49 Update">
+    <list default="true" id="57cefef0-805d-4aed-b86d-d7bfe00757a7" name="Default Changelist" comment="2020 11 02 11:24 Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -230,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604281768768</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2020 11 02 11:24 Update">
+      <created>1604283869566</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604283869566</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,7 +258,8 @@
     <MESSAGE value="register.html group in&#10;ID,Name,Password,repassword" />
     <MESSAGE value="회원가입 입력 페이지 동작 구현" />
     <MESSAGE value="2020 11 02 10:49 Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020 11 02 10:49 Update" />
+    <MESSAGE value="2020 11 02 11:24 Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020 11 02 11:24 Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="489" y="374" width="590" height="368" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604282376732">
@@ -297,10 +304,10 @@
       <screen x="72" y="27" width="1753" height="1264" />
     </state>
     <state x="463" y="252" width="1022" height="737" key="SettingsEditor/72.27.1753.1264@72.27.1753.1264" timestamp="1604038729051" />
-    <state x="302" y="370" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604281784849">
+    <state x="302" y="370" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604283880994">
       <screen x="72" y="27" width="1204" height="1129" />
     </state>
-    <state x="302" y="370" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1204.1129@72.27.1204.1129" timestamp="1604281784849" />
+    <state x="302" y="370" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1204.1129@72.27.1204.1129" timestamp="1604283880994" />
     <state x="369" y="362" key="Vcs.Push.Dialog.v2/72.27.1552.1103@72.27.1552.1103" timestamp="1604277446685" />
     <state x="407" y="411" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1753.1264@72.27.1753.1264" timestamp="1604045441188" />
     <state x="593" y="590" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604042888914">
