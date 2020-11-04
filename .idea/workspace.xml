@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57cefef0-805d-4aed-b86d-d7bfe00757a7" name="Default Changelist" comment="2020 11 02 11:36 Update">
+    <list default="true" id="965e1c3f-80ec-4f10-90bd-a382aa511ebb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,38 +32,22 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="HTML File" />
       </list>
     </option>
-  </component>
-  <component name="Git.Pull.Settings">
-    <option name="BRANCH" value="main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1jZwUwXtQE8TuxkBDHDjcXmhatU" />
+  <component name="ProjectId" id="1jliWDehEyyT3XvZN6uuQ02j3IW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/temples" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.a">
-    <configuration name="Model,control" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="flaskEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,95 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/templates" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model,control.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Model_control" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="flaskEX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model_control.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SQLLiteTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="flaskEX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLLiteTest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="flaskEX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="flaskEX" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/templates/23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,79 +70,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Model,control" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.SQLLiteTest" />
-        <item itemvalue="Python.a" />
+        <item itemvalue="Python.23" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="57cefef0-805d-4aed-b86d-d7bfe00757a7" name="Default Changelist" comment="" />
-      <created>1604024941108</created>
+      <changelist id="965e1c3f-80ec-4f10-90bd-a382aa511ebb" name="Default Changelist" comment="" />
+      <created>1604385108858</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604024941108</updated>
+      <updated>1604385108858</updated>
     </task>
-    <task id="LOCAL-00001" summary="seperate , model controller Day1 최">
-      <created>1604044627834</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1604044627835</updated>
-    </task>
-    <task id="LOCAL-00002" summary="change file name">
-      <created>1604045239448</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1604045239448</updated>
-    </task>
-    <task id="LOCAL-00003" summary="change file name">
-      <created>1604045431292</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1604045431292</updated>
-    </task>
-    <task id="LOCAL-00004" summary="register.html group in&#10;ID,Name,Password,repassword">
-      <created>1604277429742</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1604277429742</updated>
-    </task>
-    <task id="LOCAL-00005" summary="회원가입 입력 페이지 동작 구현">
-      <created>1604278139410</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1604278139410</updated>
-    </task>
-    <task id="LOCAL-00006" summary="2020 11 02 10:49 Update">
-      <created>1604281768768</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1604281768768</updated>
-    </task>
-    <task id="LOCAL-00007" summary="2020 11 02 11:24 Update">
-      <created>1604283869566</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1604283869566</updated>
-    </task>
-    <task id="LOCAL-00008" summary="2020 11 02 11:36 Update">
-      <created>1604284611160</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1604284611160</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,69 +97,26 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="seperate , model controller" />
-    <MESSAGE value="seperate , model controller Day1 최종" />
-    <MESSAGE value="change file name" />
-    <MESSAGE value="register.html group in&#10;ID,Name,Password,repassword" />
-    <MESSAGE value="회원가입 입력 페이지 동작 구현" />
-    <MESSAGE value="2020 11 02 10:49 Update" />
-    <MESSAGE value="2020 11 02 11:24 Update" />
-    <MESSAGE value="2020 11 02 11:36 Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020 11 02 11:36 Update" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="489" y="374" width="590" height="368" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604282376732">
-      <screen x="72" y="27" width="1204" height="1129" />
+    <state x="542" y="309" width="590" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604452231113">
+      <screen x="72" y="27" width="1705" height="1143" />
     </state>
-    <state x="489" y="374" width="590" height="368" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1204.1129@72.27.1204.1129" timestamp="1604282376732" />
-    <state x="609" y="366" width="590" height="352" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1552.1103@72.27.1552.1103" timestamp="1604277765152" />
-    <state x="679" y="415" width="600" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1753.1264@72.27.1753.1264" timestamp="1604040761362" />
-    <state x="757" y="360" width="424" height="520" key="FileChooserDialogImpl" timestamp="1604039188842">
-      <screen x="72" y="27" width="1753" height="1264" />
+    <state x="542" y="309" width="590" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1705.1143@72.27.1705.1143" timestamp="1604452231113" />
+    <state width="1181" height="173" key="GridCell.Tab.0.bottom" timestamp="1604387219892">
+      <screen x="72" y="27" width="1666" height="1062" />
     </state>
-    <state x="757" y="360" width="424" height="520" key="FileChooserDialogImpl/72.27.1753.1264@72.27.1753.1264" timestamp="1604039188842" />
-    <state width="1181" height="205" key="GridCell.Tab.0.bottom" timestamp="1604290219310">
-      <screen x="72" y="27" width="1204" height="1129" />
+    <state width="1181" height="173" key="GridCell.Tab.0.bottom/72.27.1666.1062@72.27.1666.1062" timestamp="1604387219892" />
+    <state width="1181" height="173" key="GridCell.Tab.0.center" timestamp="1604387219889">
+      <screen x="72" y="27" width="1666" height="1062" />
     </state>
-    <state width="1181" height="205" key="GridCell.Tab.0.bottom/72.27.1204.1129@72.27.1204.1129" timestamp="1604290219310" />
-    <state width="1319" height="247" key="GridCell.Tab.0.bottom/72.27.1342.971@72.27.1342.971" timestamp="1604025147063" />
-    <state width="1449" height="205" key="GridCell.Tab.0.bottom/72.27.1552.1103@72.27.1552.1103" timestamp="1604276746499" />
-    <state width="1319" height="175" key="GridCell.Tab.0.bottom/72.27.1753.1264@72.27.1753.1264" timestamp="1604046685984" />
-    <state width="1181" height="205" key="GridCell.Tab.0.center" timestamp="1604290219310">
-      <screen x="72" y="27" width="1204" height="1129" />
+    <state width="1181" height="173" key="GridCell.Tab.0.center/72.27.1666.1062@72.27.1666.1062" timestamp="1604387219889" />
+    <state width="1181" height="173" key="GridCell.Tab.0.left" timestamp="1604387219888">
+      <screen x="72" y="27" width="1666" height="1062" />
     </state>
-    <state width="1181" height="205" key="GridCell.Tab.0.center/72.27.1204.1129@72.27.1204.1129" timestamp="1604290219310" />
-    <state width="1319" height="247" key="GridCell.Tab.0.center/72.27.1342.971@72.27.1342.971" timestamp="1604025147062" />
-    <state width="1449" height="205" key="GridCell.Tab.0.center/72.27.1552.1103@72.27.1552.1103" timestamp="1604276746497" />
-    <state width="1319" height="175" key="GridCell.Tab.0.center/72.27.1753.1264@72.27.1753.1264" timestamp="1604046685984" />
-    <state width="1181" height="205" key="GridCell.Tab.0.left" timestamp="1604290219310">
-      <screen x="72" y="27" width="1204" height="1129" />
+    <state width="1181" height="173" key="GridCell.Tab.0.left/72.27.1666.1062@72.27.1666.1062" timestamp="1604387219888" />
+    <state width="1181" height="173" key="GridCell.Tab.0.right" timestamp="1604387219891">
+      <screen x="72" y="27" width="1666" height="1062" />
     </state>
-    <state width="1181" height="205" key="GridCell.Tab.0.left/72.27.1204.1129@72.27.1204.1129" timestamp="1604290219310" />
-    <state width="1319" height="247" key="GridCell.Tab.0.left/72.27.1342.971@72.27.1342.971" timestamp="1604025147061" />
-    <state width="1449" height="205" key="GridCell.Tab.0.left/72.27.1552.1103@72.27.1552.1103" timestamp="1604276746496" />
-    <state width="1319" height="175" key="GridCell.Tab.0.left/72.27.1753.1264@72.27.1753.1264" timestamp="1604046685984" />
-    <state width="1181" height="205" key="GridCell.Tab.0.right" timestamp="1604290219310">
-      <screen x="72" y="27" width="1204" height="1129" />
-    </state>
-    <state width="1181" height="205" key="GridCell.Tab.0.right/72.27.1204.1129@72.27.1204.1129" timestamp="1604290219310" />
-    <state width="1319" height="247" key="GridCell.Tab.0.right/72.27.1342.971@72.27.1342.971" timestamp="1604025147062" />
-    <state width="1449" height="205" key="GridCell.Tab.0.right/72.27.1552.1103@72.27.1552.1103" timestamp="1604276746498" />
-    <state width="1319" height="175" key="GridCell.Tab.0.right/72.27.1753.1264@72.27.1753.1264" timestamp="1604046685984" />
-    <state x="463" y="252" width="1022" height="737" key="SettingsEditor" timestamp="1604038729051">
-      <screen x="72" y="27" width="1753" height="1264" />
-    </state>
-    <state x="463" y="252" width="1022" height="737" key="SettingsEditor/72.27.1753.1264@72.27.1753.1264" timestamp="1604038729051" />
-    <state x="302" y="370" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604284712504">
-      <screen x="72" y="27" width="1204" height="1129" />
-    </state>
-    <state x="302" y="370" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1204.1129@72.27.1204.1129" timestamp="1604284712504" />
-    <state x="369" y="362" key="Vcs.Push.Dialog.v2/72.27.1552.1103@72.27.1552.1103" timestamp="1604277446685" />
-    <state x="407" y="411" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1753.1264@72.27.1753.1264" timestamp="1604045441188" />
-    <state x="593" y="590" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604042888914">
-      <screen x="72" y="27" width="1753" height="1264" />
-    </state>
-    <state x="593" y="590" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1753.1264@72.27.1753.1264" timestamp="1604042888914" />
+    <state width="1181" height="173" key="GridCell.Tab.0.right/72.27.1666.1062@72.27.1666.1062" timestamp="1604387219891" />
   </component>
 </project>
